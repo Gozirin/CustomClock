@@ -1,6 +1,6 @@
 # CustomClock
 
-The Android Custom Clock is a project that involves creating a clock widget for an Android device that is customized according to the user's preferences.
+The Android Custom Clock is an app that involves creating a clock widget for an Android device that is customized according to the user's preferences.
 can be Analog Clock or Digital Clock. This project is designed to enhance the user experience by allowing users to personalize the clock widget that appears on the device's home screen.
 
 
